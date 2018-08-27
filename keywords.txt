@@ -1,9 +1,9 @@
 IMUGY85	KEYWORD1
 init	KEYWORD2
-update	KEYWORD3
-getRoll	KEYWORD4
-getPitch	KEYWORD5
-getYaw	KEYWORD6
-getRawYaw	KEYWORD7
-getAcceleration	KEYWORD8
-getGyro	KEYWORD9
+update	KEYWORD2
+getRoll	KEYWORD2
+getPitch	KEYWORD2
+getYaw	KEYWORD2
+getRawYaw	KEYWORD2
+getAcceleration	KEYWORD2
+getGyro	KEYWORD2
